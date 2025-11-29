@@ -12,10 +12,20 @@ Cancel Alarm: Users can cancel the scheduled alarm. If the alarm is already ring
 Persistent Alarm Scheduling: The app requests the necessary SCHEDULE_EXACT_ALARM permission to ensure reliability on modern Android versions.
 UI with Material Design: The user interface is built using Material Components like MaterialCardView and MaterialButton.
 App Screenshots
-Main Screen	Time Picker Dialog	Alarm Set Screen
+Main Screen	
+
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL4/blob/6c23f65a0450af2f0408abb2541414354504c7e3/Screenshot%202025-11-29%20105621.png)	
-![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL4/blob/6465eee85b303f53366dca0ea500b4b7dfba6a0a/Screenshot%202025-11-29%20105621.png)	![image alt]()
+
+Time Picker Dialog
+
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL4/blob/6465eee85b303f53366dca0ea500b4b7dfba6a0a/Screenshot%202025-11-29%20105621.png)	
+
+Alarm Set Screen
+
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL4/blob/11cc087ee96b3b500f441849c37852236849f838/Screenshot%202025-11-29%20110128.png)
+
 Core Concepts Demonstrated
+
 This project provides a practical study of several fundamental Android concepts:
 
 Service: A background component used here as AlarmService to play the alarm sound independently of the app's UI. It uses MediaPlayer to manage the audio.
